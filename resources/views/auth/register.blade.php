@@ -18,13 +18,13 @@
                <meta name="format-detection" content="telephone=no, address=no, email=no" />
                <meta name="apple-mobile-web-app-capable" content="yes" />
                <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-               <title>Criar Tera Unleashed ID | Tera Unleashed</title>
-               <meta name="keywords" content="Tera Unleashed, Tera Unleashed, Cadastro Tera Unleashed, Criar Tera Unleashed ID, Login de Tera Unleashed ID, conta da Tera Unleashed">
-               <meta name="description" content="Bem-vindo &#224; Tera Unleashed.">
+               <title>Criar Krystal Tera ID | Krystal Tera</title>
+               <meta name="keywords" content="Krystal Tera, Krystal Tera, Cadastro Krystal Tera, Criar Krystal Tera ID, Login de Krystal Tera ID, conta da Krystal Tera">
+               <meta name="description" content="Bem-vindo &#224; Krystal Tera.">
                <meta property="og:type" content="website" />
-               <meta property="og:title" content="Criar Tera Unleashed ID | Tera Unleashed" />
-               <meta property="og:description" content="Bem-vindo &#224; Tera Unleashed." />
-               <meta property="og:url" content="https://account.Tera Unleashed.com" />
+               <meta property="og:title" content="Criar Krystal Tera ID | Krystal Tera" />
+               <meta property="og:description" content="Bem-vindo &#224; Krystal Tera." />
+               <meta property="og:url" content="https://account.Krystal Tera.com" />
                <meta property="og:image" content="https://s1.pearlcdn.com/account/contents/img/common/og_image.jpg?v=637992616027882803" />
                <meta property="og:image:width" content="1200" />
                <meta property="og:image:height" content="628" />
@@ -35,12 +35,12 @@
                <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon64.ico" type="image/x-icon" sizes="64x64">
                <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon256.ico" type="image/x-icon" sizes="256x256">
                <meta http-equiv="content-language" content="pt" />
-               <link rel="alternate" hreflang="ko" href="https://account.Tera Unleashed.com/ko-KR" />
-               <link rel="alternate" hreflang="en" href="https://account.Tera Unleashed.com/en-US" />
-               <link rel="alternate" hreflang="de" href="https://account.Tera Unleashed.com/de-DE" />
-               <link rel="alternate" hreflang="fr" href="https://account.Tera Unleashed.com/fr-FR" />
-               <link rel="alternate" hreflang="es" href="https://account.Tera Unleashed.com/es-ES" />
-               <link rel="alternate" hreflang="cn" href="https://account.Tera Unleashed.com/zh-CN" />
+               <link rel="alternate" hreflang="ko" href="https://account.Krystal Tera.com/ko-KR" />
+               <link rel="alternate" hreflang="en" href="https://account.Krystal Tera.com/en-US" />
+               <link rel="alternate" hreflang="de" href="https://account.Krystal Tera.com/de-DE" />
+               <link rel="alternate" hreflang="fr" href="https://account.Krystal Tera.com/fr-FR" />
+               <link rel="alternate" hreflang="es" href="https://account.Krystal Tera.com/es-ES" />
+               <link rel="alternate" hreflang="cn" href="https://account.Krystal Tera.com/zh-CN" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/global_static/font/web/font.css?v=637992616027882803" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/account/contents/css/common/reset.css?v=637992616027882803" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/account/contents/css/common/pi.css?v=637992616027882803" />
@@ -66,7 +66,7 @@
                <!-- End Google Tag Manager (noscript) -->
                <link type="text/css" rel="stylesheet" href="{{asset('assets/register/css/style.css')}}" />
                <div class="header">
-                  <a href="#default" class="logo">Tera Unleashed</a>
+                  <a href="#default" class="logo">Krystal Tera</a>
                   <div class="header-right">
                     <a class="active" href="#home">Discord</a>
                     <a href="#contact">Download</a>
@@ -87,22 +87,22 @@
                            <input Class="" Icon="" LabelName="" Placeholder="" id="birthFormat" name="_birthFormat" type="hidden" value="dd/MM/yyyy" /><input Class="" Icon="" LabelName="" Placeholder="" id="birthFormatRegex" name="_birthFormatRegex" type="hidden" value="(0[1-9]|[1-2][0-9]|3[0-1])\/(0[1-9]|1[0-2])\/[0-9]{4}$" /><input Class="" Icon="" LabelName="" Placeholder="" id="_canPlayNationCode" name="_canPlayNationCode" type="hidden" value="UA|EE|LV|LT|AX|AL|AS|AD|AI|AW|AU|AT|BE|BM|BA|BV|IO|BG|CA|KY|CK|HR|CW|CY|CZ|DK|FK|FO|FJ|FI|FR|GF|PF|TF|DE|GI|GR|GL|GP|GU|GG|VA|HU|IS|IE|IM|IT|JE|KI|LI|LU|MK|MT|MH|MQ|YT|MX|FM|MC|ME|MS|NR|NL|NC|NZ|NU|NF|MP|NO|PW|PG|PN|PL|PT|PR|RE|RO|BL|SH|PM|WS|SM|RS|SK|SI|SB|GS|ES|SJ|SE|CH|TK|TO|TC|TV|GB|US|UM|VU|VG|VI|WF" /><input Class="" Icon="" LabelName="" Placeholder="" id="_skinID" name="_skinID" type="hidden" value="" /><input Class="" Icon="" LabelName="" Placeholder="" id="hdEncGameCode" name="_encGameCode" type="hidden" value="" />        
                            <div id="step02" class="container container_join">
                               <article class="content">
-                                 <h2>Criar Tera Unleashed ID</h2>
+                                 <h2>Criar Krystal Tera ID</h2>
                                  <div class="box_join">
 
                                     <div class="input_with_btn js-email">
                                        <div class="custom_input label ">
-                                          <div class="custom_inputBox"><input Icon="" Placeholder="" autocomplete="off" class="opacityNot js-notSyncValidate input-validation-error active" data-val="true" data-val-regex="Ocorreu um erro no formato do e-mail." data-val-regex-pattern="^([\w-.^]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Favor digitar o endereço de e-mail." id="email" labelName="E-mail" name="_email" type="text" value="" /><label for="email"><span>E-mail</span></label><span class='custom_line'></span></div>
+                                          <div id="emailerrormessagediv" class="custom_inputBox"><input Icon="" Placeholder="" autocomplete="off" class="opacityNot js-notSyncValidate active" data-val="true" data-val-regex="Ocorreu um erro no formato do e-mail." data-val-regex-pattern="^([\w-.^]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$" data-val-required="Favor digitar o endereço de e-mail." id="email" labelName="E-mail" name="_email" type="text" value="" /><label for="email"><span>E-mail</span></label><span class='custom_line'></span></div>
                                           <button type="button" onclick="CheckEmail()" class="btn btn_blue btn_absolute btn_sml js-authCheck" id="emailAuthCheck">Verificar</button>
-                                          <div class="input_validate error"><span class="field-validation-valid" data-valmsg-for="_email" data-valmsg-replace="true"></span></div>
+                                          <div class="input_validate error focus" style=""><span class="field-validation-error visible" data-valmsg-for="_authKey" data-valmsg-replace="true"><span id="emailerrormessagespan" class="">É necessário confirmar o e-mail.</span></span></div>
                                        </div>
-                                       <div class="input_validate error focus" style=""><span class="field-validation-error" data-valmsg-for="_email" data-valmsg-replace="true"><span id="email-error" class="">Ocorreu um erro no formato do e-mail.</span></span></div>
                                     </div>
 
                                     {{-- Input confirm code --}}
                                     <div id="confirmationCode" class="input_with_btn input_auth js-authKey" style="display: block;">
-                                       <div class="custom_input label "><div class="custom_inputBox"><input class="input-validation-error" icon="" placeholder="" autocomplete="off" data-val="true" data-val-required="É necessário confirmar o e-mail." id="authKey" labelname="Código de Confirmação" name="_authKey" type="number" value="" aria-describedby="authKey-error" aria-invalid="true"><label for="authKey"><span>Código de Confirmação</span></label><span class="custom_line" style="width: 145.4px; left: 16.8px;"></span></div><div class="input_validate error focus" style=""><span class="field-validation-error visible" data-valmsg-for="_authKey" data-valmsg-replace="true"><span id="authKey-error" class="">É necessário confirmar o e-mail.</span></span></div></div>
-                                       <button type="button" class="btn btn_blue btn_absolute btn_sml js-authCheck" id="confirmCodeEmail">Confirmar</button>
+                                       <div class="custom_input label "><div class="custom_inputBox"><input class="input-validation-error" icon="" placeholder="" autocomplete="off" data-val="true" id="authKey" labelname="Código de Confirmação" name="_authKey" type="number" value="" aria-describedby="authKey-error" aria-invalid="true"><label for="authKey"><span>Código de Confirmação</span></label><span class="custom_line" style="width: 145.4px; left: 16.8px;"></span></div><div class="input_validate error focus" style=""><span class="field-validation-error visible" data-valmsg-for="_authKey" data-valmsg-replace="true">
+                                       <span id="confirmationCodeerrormessagespan" class="">É necessário confirmar o e-mail.</span></span></div></div>
+                                       <button onclick="ConfirmAccount()" type="button" class="btn btn_blue btn_absolute btn_sml js-authCheck">Confirmar</button>
                                        <div class="tooltip_wrap email_tooltip js-questionToolTip" tabindex="0">
                                            <span class="tooltip_title">Não recebeu o e-mail de confirmação?</span>
                                            <ul class="balloon_box">
@@ -115,7 +115,7 @@
 
                                     <div class="input_with_btn input_auth js-authKey">
                                        <div class="custom_input label ">
-                                          <div class="custom_inputBox"><input Class="" Icon="" Placeholder="" autocomplete="off" data-val="true" data-val-required="É necessário confirmar o e-mail." id="authKey" labelName="Código de Confirmação" name="_authKey" type="number" value="" /><label for="authKey"><span>Código de Confirmação</span></label><span class='custom_line'></span></div>
+                                          <div class="custom_inputBox"><input Class="" Icon="" Placeholder="" autocomplete="off" data-val="true" id="authKey" labelName="Código de Confirmação" name="_authKey" type="number" value="" /><label for="authKey"><span>Código de Confirmação</span></label><span class='custom_line'></span></div>
                                           <div class="input_validate error"><span class="field-validation-valid" data-valmsg-for="_authKey" data-valmsg-replace="true"></span></div>
                                        </div>
                                        <button type="button" class="btn btn_blue btn_absolute btn_sml js-authCheck" id="emailAuthCheck">Confirmar</button>
@@ -443,12 +443,12 @@
                                        <input type="hidden" name="_policyAgreementList[0]._etc" />
                                        <section class="box_agree  link_mode  ">
                                           <div class="sec_header join_policy_box">
-                                             <div class="custom_check "><input Class="" Icon="" Placeholder="" id="_policyAgreementList[0]._isChecked" labelName="[Obrigatório] Li e concordo com &lt;a role=&#39;button&#39; class=&#39;js-popDetails&#39; data-idx=&#39;0&#39; />Termos de Uso da Tera Unleashed&lt;/a>." name="_policyAgreementList[0]._isChecked" required="required" type="checkbox" value="true" /><input name="_policyAgreementList[0]._isChecked" type="hidden" value="false" /><label for="_policyAgreementList[0]._isChecked"><span>[Obrigatório] Li e concordo com <a role='button' class='js-popDetails' data-idx='0' />Termos de Uso da Tera Unleashed</a>.</span></label><i class='pi pi_check'></i></div>
+                                             <div class="custom_check "><input Class="" Icon="" Placeholder="" id="_policyAgreementList[0]._isChecked" labelName="[Obrigatório] Li e concordo com &lt;a role=&#39;button&#39; class=&#39;js-popDetails&#39; data-idx=&#39;0&#39; />Termos de Uso da Krystal Tera&lt;/a>." name="_policyAgreementList[0]._isChecked" required="required" type="checkbox" value="true" /><input name="_policyAgreementList[0]._isChecked" type="hidden" value="false" /><label for="_policyAgreementList[0]._isChecked"><span>[Obrigatório] Li e concordo com <a role='button' class='js-popDetails' data-idx='0' />Termos de Uso da Krystal Tera</a>.</span></label><i class='pi pi_check'></i></div>
                                           </div>
                                           <div class="box_policy_wrap hide ">
                                              <div class="box_policy">
                                                 <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; word-break: keep-all;'><span style='border: 1pt none windowtext; padding: 0cm;'><span style='font-size: 18px;'><b>Objetivo</b></span></span></p>
-                                                <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; word-break: keep-all;'><span lang='EN-US' style='border: 1pt none windowtext; padding: 0cm;'>① </span>A Tera Unleashed, subsidiárias e afiliadas (doravante denominadas “Tera Unleashed” ou “Empresa”) define, por meio deste contrato, as regras básicas de uso entre a Empresa e o usuário dos serviços providenciados por esta (leia-se conta unificada da Tera Unleashed, serviços de página da web, etc., doravante denominados “serviços”).</p>
+                                                <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; word-break: keep-all;'><span lang='EN-US' style='border: 1pt none windowtext; padding: 0cm;'>① </span>A Krystal Tera, subsidiárias e afiliadas (doravante denominadas “Krystal Tera” ou “Empresa”) define, por meio deste contrato, as regras básicas de uso entre a Empresa e o usuário dos serviços providenciados por esta (leia-se conta unificada da Krystal Tera, serviços de página da web, etc., doravante denominados “serviços”).</p>
                                                 <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; word-break: keep-all;'><span lang='EN-US' style='border: 1pt none windowtext; padding: 0cm;'>    </span></p>
                                                 <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; word-break: keep-all;'>
                                                    <span lang='EN-US' style='border: 1pt none windowtext; padding: 0cm;'><br></span>
@@ -721,20 +721,20 @@
                                           <div class="box_policy_wrap hide ">
                                              <div class="box_policy">
                                                 <p class='MsoNormal' align='left' style='margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; '><br></p>
-                                                <p><b>1. Quais os tipos de dados pessoais coletados pela Tera Unleashed? <br></b></p>
-                                                <p><b>2. Por que a Tera Unleashed coleta dados pessoais? </b></p>
-                                                <p><b>3. Com quem a Tera Unleashed compartilha os dados pessoais coletados? </b></p>
+                                                <p><b>1. Quais os tipos de dados pessoais coletados pela Krystal Tera? <br></b></p>
+                                                <p><b>2. Por que a Krystal Tera coleta dados pessoais? </b></p>
+                                                <p><b>3. Com quem a Krystal Tera compartilha os dados pessoais coletados? </b></p>
                                                 <p><b>4. Qual a duração do armazenamento dos dados pessoais e como estes são destruídos? </b></p>
-                                                <p><b>5. Quais as medidas tomadas pela Tera Unleashed ao transferir dados pessoais para o exterior? </b></p>
-                                                <p><b>6. Como os dados pessoais são protegidos pela Tera Unleashed? </b></p>
+                                                <p><b>5. Quais as medidas tomadas pela Krystal Tera ao transferir dados pessoais para o exterior? </b></p>
+                                                <p><b>6. Como os dados pessoais são protegidos pela Krystal Tera? </b></p>
                                                 <p><b>7. Quais os métodos de coleta automática de informação como, por exemplo, cookies? </b></p>
                                                 <p><b>8. Como são utilizados os dados pessoais e quais os direitos e escolhas do representante legal?</b></p>
-                                                <p><b>9. Existe restrição etária no uso dos serviços oferecidos pela Tera Unleashed? </b></p>
-                                                <p><b>10. Como posso entrar em contato com a Tera Unleashed? </b></p>
+                                                <p><b>9. Existe restrição etária no uso dos serviços oferecidos pela Krystal Tera? </b></p>
+                                                <p><b>10. Como posso entrar em contato com a Krystal Tera? </b></p>
                                                 <p><b>11. Envio de dados pessoais de usuários da República da Coreia para o exterior.</b></p>
                                                 <p><br></p>
                                                 <p><br></p>
-                                                <p>A Tera Unleashed, subsidiárias e afiliadas (doravante denominadas “Tera Unleashed” ou “Empresa”), prestadora de serviços de jogos de computador, console e dispositivos móveis e serviços relacionados (doravante denominados “serviços”), tem o direito de armazenar, processar e, quando estritamente necessário, compartilhar dados pessoais dos usuários com a finalidade de prestação de serviços. A Tera Unleashed reconhece a importância da proteção dos dados pessoais e tomará as medidas necessárias para protegê-los durante a utilização dos serviços. </p>
+                                                <p>A Krystal Tera, subsidiárias e afiliadas (doravante denominadas “Krystal Tera” ou “Empresa”), prestadora de serviços de jogos de computador, console e dispositivos móveis e serviços relacionados (doravante denominados “serviços”), tem o direito de armazenar, processar e, quando estritamente necessário, compartilhar dados pessoais dos usuários com a finalidade de prestação de serviços. A Krystal Tera reconhece a importância da proteção dos dados pessoais e tomará as medidas necessárias para protegê-los durante a utilização dos serviços. </p>
                                                 <p><br></p>
                                                 <p>A presente Política de Privacidade tem como objetivo explicitar o objetivo e método de utilização dos dados pessoais fornecidos pelo usuário, assim como identificar os métodos através dos quais a Empresa trabalha para proteger os dados pessoais em posse.</p>
                                                 <p> </p>
@@ -743,11 +743,11 @@
                                                 <p>O escopo de vigência desta Política de Privacidade abrange todos os serviços prestados.</p>
                                                 <p><br></p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>1. Quais os tipos de dados pessoais coletados pela Tera Unleashed? </span></b></p>
+                                                <p><b><span style='font-size: 18px;'>1. Quais os tipos de dados pessoais coletados pela Krystal Tera? </span></b></p>
                                                 <p>Os dados pessoais abaixo serão coletados pela Empresa via formulário de cadastro na página oficial, utilização de serviços (incluindo serviços móveis), alteração de informações de membro, telefone, fax, consulta com Atendimento ao Cliente, participação de eventos, coleta de dados providenciados por empresas parceiras.</p>
                                                 <p><br></p>
                                                 <p><b>1) Dados fornecidos pelo usuário</b></p>
-                                                <p>① A Tera Unleashed coletará os seguintes dados durante o processo de cadastro:</p>
+                                                <p>① A Krystal Tera coletará os seguintes dados durante o processo de cadastro:</p>
                                                 <p>- E-mail (ID da Conta), Senha, Nome, Região, Data de Nascimento</p>
                                                 <p>※ Dados de identificação adicionais serão coletados ao cadastrar-se utilizando conta de rede social.</p>
                                                 <p><br></p>
@@ -1247,7 +1247,7 @@
                                                 <p>- Informações necessárias para efetuar pagamento</p>
                                                 <p>  </p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>2. Por que a Tera Unleashed coleta dados pessoais?</span></b></p>
+                                                <p><b><span style='font-size: 18px;'>2. Por que a Krystal Tera coleta dados pessoais?</span></b></p>
                                                 <p>A Empresa coleta e utiliza os dados pessoais com as seguintes finalidades:</p>
                                                 <p><br></p>
                                                 <p><b>1) Processamento de dados necessários para prestação do serviço.</b></p>
@@ -1291,7 +1291,7 @@
                                                 <p>A Empresa coleta e processa os dados necessários para prestação de serviço, manutenção de uma experiência estável e disponibilização de publicidade direcionada. Dados pessoais além do escopo acordado pelo usuário não são utilizados.</p>
                                                 <p><br></p>
                                                 <p><b><br></b></p>
-                                                <p><b><span style='font-size: 18px;'>3. Com quem a Tera Unleashed compartilha os dados pessoais coletados?</span></b></p>
+                                                <p><b><span style='font-size: 18px;'>3. Com quem a Krystal Tera compartilha os dados pessoais coletados?</span></b></p>
                                                 <p>A Empresa não compartilha os dados pessoais coletados com terceiros sem a devida autorização. Todavia, caso seja necessário o compartilhamento em respeito à regulamentação das legislações vigentes ou com a finalidade de proteger o usuário ou terceiros, a Empresa poderá compartilhar, se verificado inevitável e sob os devidos processos de segurança, os dados pessoais do usuário com terceiros de modo a providenciar um melhor serviço.</p>
                                                 <p> </p>
                                                 <p><b>1) Outros Usuários e Público </b></p>
@@ -2043,18 +2043,18 @@
                                                 <p>Dados pessoais remanescentes em forma impressa (documentos em papel, assinatura, etc.) serão queimados ou destruídos com auxílio de triturador. Dados armazenados por vias digitais serão excluídos por métodos que impeçam a restauração.</p>
                                                 <p><br></p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>5. Quais as medidas tomadas pela Tera Unleashed ao transferir dados pessoais para o exterior?</span></b></p>
-                                                <p>Devido à natureza global dos serviços providenciados pela Empresa, os dados pessoais podem ser transferidos para qualquer lugar do mundo e as leis de proteção de dados poderão diferir das leis vigentes no país de residência do usuário. Especialmente caso o usuário resida na Europa e seus dados pessoais sejam transferidos para além da região do Espaço Económico Europeu (EEE), a abrangência legal da proteção dos dados pessoais poderá ser menor que no país do usuário. A Empresa tomará as medidas de segurança adequadas para proteger os dados pessoais dos usuários em conformidade com as leis vigentes. Para mais informações sobre a proteção dos dados, favor consultar “6. Como os dados pessoais são protegidos pela Tera Unleashed?”.</p>
+                                                <p><b><span style='font-size: 18px;'>5. Quais as medidas tomadas pela Krystal Tera ao transferir dados pessoais para o exterior?</span></b></p>
+                                                <p>Devido à natureza global dos serviços providenciados pela Empresa, os dados pessoais podem ser transferidos para qualquer lugar do mundo e as leis de proteção de dados poderão diferir das leis vigentes no país de residência do usuário. Especialmente caso o usuário resida na Europa e seus dados pessoais sejam transferidos para além da região do Espaço Económico Europeu (EEE), a abrangência legal da proteção dos dados pessoais poderá ser menor que no país do usuário. A Empresa tomará as medidas de segurança adequadas para proteger os dados pessoais dos usuários em conformidade com as leis vigentes. Para mais informações sobre a proteção dos dados, favor consultar “6. Como os dados pessoais são protegidos pela Krystal Tera?”.</p>
                                                 <p><br></p>
                                                 <p>A República da Coreia adota a decisão de adequação em acordo entre a República da Coreia e o Regulamento Geral sobre a Proteção de Dados (RGPD) da União Europeia ao transferir dados pessoais para o exterior.</p>
                                                 <p>- Garantia de equivalência entre as leis de proteção de dados pessoais entre a República da Coreia e o RGPD da União Europeia.</p>
                                                 <p>- Conforme a decisão de adequação, a transferência de dados pessoais entre a União Europeia e a República da Coreia pode ser realizada de maneira segura e sem a necessidade de verificação ou métodos adicionais.</p>
                                                 <p><br></p>
-                                                <p>O usuário tem o direito de, a qualquer momento, entrar em contato com o Atendimento ao Cliente (https://support.Tera Unleashed.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Tera Unleashed.com) para solicitar o encerramento imediato dos dados pessoais para o exterior. Todavia, caso o usuário escolha não transferir seus dados pessoais para empresa competente no exterior, a prestação de serviços e a utilização do site poderão ser limitadas.</p>
-                                                <p>Caso os dados pessoais sejam transferidos para as empresas ou provedoras de serviços mencionadas em “3. Com quem a Tera Unleashed compartilha os dados pessoais coletados?”, a Empresa responsabiliza-se por adotar contrato que respeite a legislação de proteção de dados da União Europeia, garantindo, assim, que os dados pessoais sejam protegidos devidamente mesmo que a transferência ocorra para países que não estejam inclusos no EEE. Para mais informações, favor entrar em contato com o Atendimento ao Cliente (https://support.Tera Unleashed.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Tera Unleashed.com).  </p>
+                                                <p>O usuário tem o direito de, a qualquer momento, entrar em contato com o Atendimento ao Cliente (https://support.Krystal Tera.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Krystal Tera.com) para solicitar o encerramento imediato dos dados pessoais para o exterior. Todavia, caso o usuário escolha não transferir seus dados pessoais para empresa competente no exterior, a prestação de serviços e a utilização do site poderão ser limitadas.</p>
+                                                <p>Caso os dados pessoais sejam transferidos para as empresas ou provedoras de serviços mencionadas em “3. Com quem a Krystal Tera compartilha os dados pessoais coletados?”, a Empresa responsabiliza-se por adotar contrato que respeite a legislação de proteção de dados da União Europeia, garantindo, assim, que os dados pessoais sejam protegidos devidamente mesmo que a transferência ocorra para países que não estejam inclusos no EEE. Para mais informações, favor entrar em contato com o Atendimento ao Cliente (https://support.Krystal Tera.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Krystal Tera.com).  </p>
                                                 <p><br></p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>6. Como os dados pessoais são protegidos pela Tera Unleashed?</span></b></p>
+                                                <p><b><span style='font-size: 18px;'>6. Como os dados pessoais são protegidos pela Krystal Tera?</span></b></p>
                                                 <p>A Empresa faz uso de medidas técnicas, organizativas e físicas para evitar perda, furto, vazamento, falsificação e dano aos dados pessoais. Todavia, esta não se responsabiliza por vazamentos de dados pessoais decorrentes de negligência na gestão de senha ou demais problemas relacionados diretamente ao usuário ou a áreas não geridas pela Empresa e, consequentemente, alheios aos esforços desta.  <br></p>
                                                 <p><br></p>
                                                 <p><b>1) Medidas Técnicas  </b></p>
@@ -2109,7 +2109,7 @@
                                                 <p><b><span style='font-size: 18px;'>8. Como são utilizados os dados pessoais e quais os direitos e escolhas do representante legal?</span></b></p>
                                                 <p>O usuário possui o direito de solicitar a qualquer momento a visualização dos próprios dados pessoais registrados. Em caso de discordância sobre a gestão dos dados pessoais por parte da Empresa, este possui o direito de recusar o acordo, interromper a utilização ou excluir a conta. Caso os dados pessoais sejam destruídos como resultado de exclusão da conta, informações criadas e acumuladas durante a utilização do serviço serão destruídas conjuntamente.<br></p>
                                                 <p> </p>
-                                                <p>O usuário pode visualizar e alterar seus dados pessoais através de Informações da Conta, em Minha Página, após realizar o login no site oficial. A conta pode ser excluída através do menu Excluir Conta em Minha Página. Para mais informações sobre visualização, alteração dos dados pessoais ou exclusão da conta, favor entrar em contato com o Atendimento ao Cliente (https://support.Tera Unleashed.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Tera Unleashed.com).  </p>
+                                                <p>O usuário pode visualizar e alterar seus dados pessoais através de Informações da Conta, em Minha Página, após realizar o login no site oficial. A conta pode ser excluída através do menu Excluir Conta em Minha Página. Para mais informações sobre visualização, alteração dos dados pessoais ou exclusão da conta, favor entrar em contato com o Atendimento ao Cliente (https://support.Krystal Tera.com/Support/) ou com o departamento responsável pela proteção de dados pessoais (privacy@Krystal Tera.com).  </p>
                                                 <p><br></p>
                                                 <p>Caso o usuário solicite correção de dados pessoais, os referidos dados não serão utilizados ou compartilhados até a conclusão da correção. Caso informações incorretas sejam compartilhadas com terceiros, a Empresa contatará os órgãos necessários para realizar as devidas correções.</p>
                                                 <p>Mais informações sobre o processo de remoção e exclusão dos dados pessoais estão disponíveis em “4. Por quanto tempo são armazenados os dados pessoais e quando estes são destruídos?”. Não será possível a utilização ou visualização dos referidos dados para outras finalidades. </p>
@@ -2132,12 +2132,12 @@
                                                 <p>② Limitar compras do menor </p>
                                                 <p><br></p>
                                                 <p>Os direitos e ferramentas acima podem ser exercidos a qualquer momento. </p>
-                                                <p>- Atendimento ao Cliente do site oficial: https://support.Tera Unleashed.com/Support/</p>
-                                                <p>- Departamento responsável pela proteção de dados pessoais: privacy@Tera Unleashed.com</p>
-                                                <p>- Página de Controle Parental: https://parents.Tera Unleashed.com/</p>
+                                                <p>- Atendimento ao Cliente do site oficial: https://support.Krystal Tera.com/Support/</p>
+                                                <p>- Departamento responsável pela proteção de dados pessoais: privacy@Krystal Tera.com</p>
+                                                <p>- Página de Controle Parental: https://parents.Krystal Tera.com/</p>
                                                 <p><br></p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>9. Existe restrição etária no uso dos serviços oferecidos pela Tera Unleashed?</span></b></p>
+                                                <p><b><span style='font-size: 18px;'>9. Existe restrição etária no uso dos serviços oferecidos pela Krystal Tera?</span></b></p>
                                                 <p><b>1) Serviços de Web </b><br></p>
                                                 <p>- A Empresa não coleta ou solicita intencionalmente dados pessoais, não envia anúncios personalizados e não permite o uso de seus serviços por menores de 14 anos (República da Coreia), 13 anos (EUA / Canadá), 13 a 16 anos (Europa), 18 anos (Brasil) (doravante “menor”) de acordo com a legislação de maioridade de cada país. (Usuários entre 13 e 18 anos no Reino Unido, Território Britânico do Oceano Índico, Ilhas Virgens Britânicas poderão utilizar os serviços da Empresa mediante autorização do Responsável Legal)</p>
                                                 <p>- Não é permitido a menores enviar dados pessoais à Empresa. Caso dados pessoais de menores sejam coletados pela Empresa, esta apagará os dados imediatamente.</p>
@@ -2147,8 +2147,8 @@
                                                 <p>- A Empresa limita o acesso ao jogo de acordo com os órgãos de classificação indicativa de cada região de serviço.</p>
                                                 <p>                </p>
                                                 <p><br></p>
-                                                <p><b><span style='font-size: 18px;'>10. Como posso entrar em contato com a Tera Unleashed?</span></b></p>
-                                                <p>Em caso de dúvidas sobre a proteção dos dados pessoais ou solicitação de resolução de problemas pertinentes, favor entrar em contato com o Atendimento ao Cliente (https://support.Tera Unleashed.com/Support/) do site oficial.</p>
+                                                <p><b><span style='font-size: 18px;'>10. Como posso entrar em contato com a Krystal Tera?</span></b></p>
+                                                <p>Em caso de dúvidas sobre a proteção dos dados pessoais ou solicitação de resolução de problemas pertinentes, favor entrar em contato com o Atendimento ao Cliente (https://support.Krystal Tera.com/Support/) do site oficial.</p>
                                                 <p><br></p>
                                                 <p>Assuntos relacionados à proteção de dados pessoais poderão ser tratados através do Diretor de Privacidade ou do Departamento Responsável por Dados Pessoais. A Empresa está comprometida a responder qualquer contato o mais rápido possível.</p>
                                                 <div class='table-resizr'>
@@ -2213,7 +2213,7 @@
                                                                <p class='MsoNormal' align='center' style='margin-bottom:0cm;text-align:center;
                                                                   line-height:normal'>
                                                                   <span lang='PT-BR' style='mso-bidi-font-size:10.0pt;
-                                                                     color:black;mso-themecolor:text1;mso-ansi-language:PT-BR'>E-mail: </span><span lang='EN-US'><a href='mailto:privacy@Tera Unleashed.com'><span lang='PT-BR'>privacy@Tera Unleashed.com</span></a></span>
+                                                                     color:black;mso-themecolor:text1;mso-ansi-language:PT-BR'>E-mail: </span><span lang='EN-US'><a href='mailto:privacy@Krystal Tera.com'><span lang='PT-BR'>privacy@Krystal Tera.com</span></a></span>
                                                                   <span lang='PT-BR'>
                                                                      <o:p></o:p>
                                                                   </span>
@@ -2256,7 +2256,7 @@
                                                                <p class='MsoNormal' align='center' style='margin-bottom:0cm;text-align:center;
                                                                   line-height:normal'>
                                                                   <span lang='PT-BR' style='mso-bidi-font-size:10.0pt;
-                                                                     color:black;mso-themecolor:text1;mso-ansi-language:PT-BR'>E-mail: </span><span lang='EN-US'><a href='mailto:privacy@Tera Unleashed.com'><span lang='PT-BR'>privacy@Tera Unleashed.com</span></a></span>
+                                                                     color:black;mso-themecolor:text1;mso-ansi-language:PT-BR'>E-mail: </span><span lang='EN-US'><a href='mailto:privacy@Krystal Tera.com'><span lang='PT-BR'>privacy@Krystal Tera.com</span></a></span>
                                                                   <span lang='PT-BR'>
                                                                      <o:p></o:p>
                                                                   </span>
@@ -2287,13 +2287,13 @@
                                                 <p> </p>
                                                 <p><b>2) Contato de proteção de dados pessoais e representante na Europa</b></p>
                                                 <p>Usuários residentes na Europa poderão entrar em contato com os seguintes departamentos para resolução de assuntos referentes aos dados pessoais:</p>
-                                                <p>Direção de Privacidade: Tera Unleashed Corp.   </p>
+                                                <p>Direção de Privacidade: Krystal Tera Corp.   </p>
                                                 <p>Endereço: 48 Gwacheon-daero 2-gil, Gwacheon-si, Gyeonggi-do, 13824, Rep. of Korea </p>
-                                                <p>Contato: dpo@Tera Unleashed.com </p>
+                                                <p>Contato: dpo@Krystal Tera.com </p>
                                                 <p> </p>
                                                 <p>Informações de contato com Direção de Privacidade e representante na Europa: </p>
-                                                <p>A VeraSafe é a representante oficial da Tera Unleashed H.K. LIMITED na União Europeia para assuntos referentes à proteção de dados, conforme artigo 27 do Regulamento Geral sobre a Proteção de Dados (RGPD) da União Europeia. </p>
-                                                <p>Em adição ao dpo@Tera Unleashed.com, a VeraSafe pode ser contatada exclusivamente para assuntos relacionados ao processamento de dados pessoais. É possível entrar em contato com a VeraSafe através do formulário abaixo: </p>
+                                                <p>A VeraSafe é a representante oficial da Krystal Tera H.K. LIMITED na União Europeia para assuntos referentes à proteção de dados, conforme artigo 27 do Regulamento Geral sobre a Proteção de Dados (RGPD) da União Europeia. </p>
+                                                <p>Em adição ao dpo@Krystal Tera.com, a VeraSafe pode ser contatada exclusivamente para assuntos relacionados ao processamento de dados pessoais. É possível entrar em contato com a VeraSafe através do formulário abaixo: </p>
                                                 <p>https://www.verasafe.com/privacy-services/contact-article-27-representative </p>
                                                 <p>Adicionalmente, é possível contatar a VeraSafe através do seguinte endereço: </p>
                                                 <p>VeraSafe Czech Republic s.r.o </p>
@@ -2340,7 +2340,7 @@
                                                 <p>- Em caso de atividade suspeita: até 3 (três) meses</p>
                                                 <p>- Caso atividade maliciosa seja detectada: até encerramento do contrato   </p>
                                                 <p> </p>
-                                                <p>O usuário tem o direito de contatar o Atendimento ao Cliente (https://support.Tera Unleashed.com/Support/) para solicitar o não envio de dados pessoais para o exterior. A recusa no envio de dados pessoais ao exterior pode resultar na limitação dos serviços prestados. </p>
+                                                <p>O usuário tem o direito de contatar o Atendimento ao Cliente (https://support.Krystal Tera.com/Support/) para solicitar o não envio de dados pessoais para o exterior. A recusa no envio de dados pessoais ao exterior pode resultar na limitação dos serviços prestados. </p>
                                                 <p> </p>
                                                 <p>A presente Política de Privacidade não engloba dados pessoais coletados em páginas de terceiros vinculadas a serviços prestados pela Empresa. Favor verificar a Política de Privacidade do site visitado para mais informações.</p>
                                                 <p><br></p>
@@ -2391,8 +2391,8 @@
                            </div>
                            <div class="copyright ">
                               <div class="footer_item">
-                                 <a href="#" target="_blank" class="btn_Tera Unleashed" aria-label="Tera Unleashed"></a>
-                                 <p>&copy; Tera Unleashed Corp. All Rights Reserved.</p>
+                                 <a href="#" target="_blank" class="btn_Krystal Tera" aria-label="Krystal Tera"></a>
+                                 <p>&copy; Krystal Tera Corp. All Rights Reserved.</p>
                               </div>
                            </div>
                         </div>
@@ -2425,37 +2425,6 @@
                <script src="https://s1.pearlcdn.com/account/contents/js/lib/jquery.validate.unobtrusive-3.2.11.min.js"></script> --}}
                <script src="https://s1.pearlcdn.com/account/contents/js/lib/jquery.inputmask.bundle.js"></script>
                <script src="https://s1.pearlcdn.com/account/contents/js/lib/select2.min.js"></script>
-               <script>
-                  $("#confirmationCode").hover(function(){
-                     $("#confirmationCode div ul").addClass("on");
-                  }, function(){
-                     $("#confirmationCode div ul").removeClass("on");
-                  });
-               </script>
-
-               <script>
-                  function CheckEmail()
-                  {
-                     var inputEmail = $('#email').val()
-                     if(inputEmail){
-                        $.ajax({
-                           url : "{{ route('checkemailaccountget') }}",
-                           type : "POST",
-                           dataType:"json",
-                           data:{
-                              _token:"{{csrf_token()}}",
-                              email: inputEmail
-                           },
-                           }).done(function(response){
-                              $.each(response, function(key, value){
-                                    $('input[id="'+ key +'"]').val(value);
-                              });
-                           }).fail(function(XMLHttpRequest, textStatus, errorThrown){
-                              
-                           }).always(function(){
-                        });
-                     }
-                  }
-               </script>
+               @include('auth.registerJquery')
             </body>
          </html>

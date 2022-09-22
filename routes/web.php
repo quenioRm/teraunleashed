@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-
+Route::get('/', 'Auth\AuthController@Home')->name('home');
 Route::get('/Register', 'Auth\AuthController@RegisterAccountGet')->name('register');
 Route::post('/CheckEmailAccountGet', 'Auth\AuthController@CheckEmailAccountGet')->name('checkemailaccountget');
+Route::post('/ConfirmAccountPost', 'Auth\AuthController@ConfirmAccountPost')->name('confirmaccountpost');
