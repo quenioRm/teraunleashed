@@ -1,0 +1,205 @@
+﻿@charset "utf-8";
+/* common */
+@font-face {
+    font-family: 'custom';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular.eot');
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ingame';
+    src: url('coui://ui_data/Font/Web/notosans_regular.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* korean */
+@font-face {
+    font-family: 'customKR';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_kr.eot');
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_kr.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_kr.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_kr.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ingameKR';
+    src: url('coui://ui_data/Font/Web/notosans_regular_kr.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* japanese */
+@font-face {
+    font-family: 'customJP';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_jp.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_jp.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_jp.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ingameJP';
+    src: url('coui://ui_data/Font/Web/notosans_regular_jp.ttf'),
+    url('coui://ui_data/Font/Web/notosans_regular_jp.otf') format('opentype') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* russia */
+@font-face {
+    font-family: 'customRU';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_ru.eot');
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_ru.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_ru.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_ru.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ingameRU';
+    src: url('coui://ui_data/Font/Web/notosans_regular_ru.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* thai */
+@font-face {
+    font-family: 'customTH';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_th.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_th.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_th.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'ingameTH';
+    src: url('coui://ui_data/Font/Web/notosans_regular_th.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* turkey */
+@font-face {
+    font-family: 'customTR';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_tr.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_tr.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_tr.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'ingameTR';
+    src: url('coui://ui_data/Font/Web/notosans_regular_tr.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* taiwan */
+@font-face {
+    font-family: 'customTW';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_tw.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ingameTW';
+    src: url('coui://ui_data/Font/Web/notosans_regular_tw.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* chinese */
+@font-face {
+    font-family: 'customCN';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_cn.eot');
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_cn.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_cn.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_cn.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ingameCN';
+    src: url('coui://ui_data/Font/Web/notosans_regular.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+@font-face {
+    font-family: 'customAR';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/notosans_regular_arabic.ttf') format('opentype');
+}
+@font-face {
+    font-family: 'ingameAR';
+    src: url('coui://ui_data/Font/Web/notosans_regular_arabic.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* strong sword pure */
+@font-face {
+    font-family: 'StrongSword_Pure';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.ttf') format('truetype');
+}
+/* strong sword mixed */
+@font-face {
+    font-family: 'StrongSword_Mixed';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.ttf') format('truetype');
+}
+/* strong sword New */
+@font-face {
+    font-family: 'StrongSword_New';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new.woff2') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new.woff') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'StrongSword_New';
+    font-weight: 600;
+    font-style: normal;
+    src: url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new_bold.woff2?v=1') format('woff2'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new_bold.woff?v=1') format('woff'),
+    url('https://s1.pearlcdn.com/global_static/font/web/web_pearl_original_new_bold.ttf?v=1') format('truetype');
+}
+/* strong sword */
+@font-face {
+    font-family: 'StrongIngame_Pure';
+    font-weight: normal;
+    font-style: normal;
+    src: url('coui://ui_data/Font/Web/pearl.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+/* strong sword */
+@font-face {
+    font-family: 'StrongIngame_Mixed';
+    font-weight: normal;
+    font-style: normal;
+    src: url('coui://ui_data/Font/Web/strongsword.ttf') format('truetype'), local('PingFang TC'), local('Helvetica Neue'), local('Helvetica'), local('STHeitiTC-Light'), local('Arial'), local('sans-serif');
+}
+
+/* web */
+html, body, div, span, input, textarea, a, button, select { font-family: custom; }
+:lang(ko-kr), :lang(ko-kr) body, :lang(ko-kr) div, :lang(ko-kr) span, :lang(ko-kr) input, :lang(ko-kr) textarea, :lang(ko-kr) a, :lang(ko-kr) button, :lang(ko-kr) select,
+:lang(en-us), :lang(en-us) body, :lang(en-us) div, :lang(en-us) span, :lang(en-us) input, :lang(en-us) textarea, :lang(en-us) a, :lang(en-us) button, :lang(en-us) select { font-family: 'StrongSword_New'; }
+:lang(fr-fr), :lang(fr-fr) body, :lang(fr-fr) div, :lang(fr-fr) span, :lang(fr-fr) input, :lang(fr-fr) textarea, :lang(fr-fr) a, :lang(fr-fr) button, :lang(fr-fr) select { font-family: 'StrongSword_New'; }
+:lang(de-de), :lang(de-de) body, :lang(de-de) div, :lang(de-de) span, :lang(de-de) input, :lang(de-de) textarea, :lang(de-de) a, :lang(de-de) button, :lang(de-de) select { font-family: 'StrongSword_New'; }
+:lang(ja-jp), :lang(ja-jp) body, :lang(ja-jp) div, :lang(ja-jp) span, :lang(ja-jp) input, :lang(ja-jp) textarea, :lang(ja-jp) a, :lang(ja-jp) button, :lang(ja-jp) select { font-family: customJP; }
+:lang(ru-ru), :lang(ru-ru) body, :lang(ru-ru) div, :lang(ru-ru) span, :lang(ru-ru) input, :lang(ru-ru) textarea, :lang(ru-ru) a, :lang(ru-ru) button, :lang(ru-ru) select { font-family: customRU; }
+:lang(th-th), :lang(th-th) body, :lang(th-th) div, :lang(th-th) span, :lang(th-th) input, :lang(th-th) textarea, :lang(th-th) a, :lang(th-th) button, :lang(th-th) select { font-family: customTH, Lato, "Lucida Grande", Tahoma, Sans-Serif; }
+:lang(tr-tr), :lang(tr-tr) body, :lang(tr-tr) div, :lang(tr-tr) span, :lang(tr-tr) input, :lang(tr-tr) textarea, :lang(tr-tr) a, :lang(tr-tr) button, :lang(tr-tr) select { font-family: 'StrongSword_New'; }
+:lang(zh-tw), :lang(zh-tw) body, :lang(zh-tw) div, :lang(zh-tw) span, :lang(zh-tw) input, :lang(zh-tw) textarea, :lang(zh-tw) a, :lang(zh-tw) button, :lang(zh-tw) select { font-family: customTW; }
+:lang(zh-cn), :lang(zh-cn) body, :lang(zh-cn) div, :lang(zh-cn) span, :lang(zh-cn) input, :lang(zh-cn) textarea, :lang(zh-cn) a, :lang(zh-cn) button, :lang(zh-cn) select { font-family: customCN; }
+:lang(ar-ae), :lang(ar-ae) body, :lang(ar-ae) div, :lang(ar-ae) span, :lang(ar-ae) input, :lang(ar-ae) textarea, :lang(ar-ae) a, :lang(ar-ae) button, :lang(ar-ae) select { font-family: customAR; }
+:lang(es-es), :lang(es-es) body, :lang(es-es) div, :lang(es-es) span, :lang(es-es) input, :lang(es-es) textarea, :lang(es-es) a, :lang(es-es) button, :lang(es-es) select { font-family: 'StrongSword_New'; }
+:lang(es-mx), :lang(es-mx) body, :lang(es-mx) div, :lang(es-mx) span, :lang(es-mx) input, :lang(es-mx) textarea, :lang(es-mx) a, :lang(es-mx) button, :lang(es-mx) select { font-family: 'StrongSword_New'; }
+:lang(pt-br), :lang(pt-br) body, :lang(pt-br) div, :lang(pt-br) span, :lang(pt-br) input, :lang(pt-br) textarea, :lang(pt-br) a, :lang(pt-br) button, :lang(pt-br) select { font-family: 'StrongSword_New'; }
+
+/* ingame */
+.inGameWrap { font-family: ingame; }
+:lang(ko-kr) .inGameWrap,
+:lang(en-us) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(fr-fr) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(de-de) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(ja-jp) .inGameWrap { font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons","Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+:lang(ru-ru) .inGameWrap { font-family: ingameRU; }
+:lang(th-th) .inGameWrap { font-family: ingameTH, Lato, "Lucida Grande", Tahoma, Sans-Serif; }
+:lang(tr-tr) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(zh-tw) .inGameWrap { font-family: ingameTW, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif; }
+:lang(zh-cn) .inGameWrap { font-family: ingameCN, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif; }
+:lang(ar-ae) .inGameWrap { font-family: ingameAR; }
+:lang(es-es) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(es-mx) .inGameWrap { font-family: 'StrongSword_New'; }
+:lang(pt-br) .inGameWrap { font-family: 'StrongSword_New'; }
+
+/* bold */
+.bold { font-weight:bold; }
