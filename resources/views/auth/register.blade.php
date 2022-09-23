@@ -68,7 +68,7 @@
                <div class="header">
                   <a href="#default" class="logo">Krystal Tera</a>
                   <div class="header-right">
-                    <a class="active" href="#home">Discord</a>
+                    <a class="active" href="https://discord.gg/dcZfZyQus9">Discord</a>
                     <a href="#contact">Download</a>
                     <a href="#about">Facebook</a>
                   </div>
