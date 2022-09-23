@@ -68,9 +68,9 @@
                <div class="header">
                   <a href="#default" class="logo">Krystal Tera</a>
                   <div class="header-right">
-                    <a class="active" href="https://discord.gg/dcZfZyQus9">Discord</a>
-                    <a href="#contact">Download</a>
-                    <a href="#about">Facebook</a>
+                    <a class="active" target="_blank" href="https://discord.gg/dcZfZyQus9">Discord</a>
+                    <a href="#">Download</a>
+                    <a href="#" target="_blank">Facebook</a>
                   </div>
                 </div>
                <div id="page_wrap">
@@ -469,11 +469,11 @@
                            <div class="term_list">
                               <a href="#" class="term_item" target="_blank">
                               <strong>
-                              Pol&#237;tica de Privacidade
+                              Privacy policy
                               </strong>
                               </a>
-                              <a href="#" class="term_item" target="_blank">Atendimento ao Cliente</a>
-                              <a href="#" class="term_item" target="_blank">Controle Parental</a>
+                              <a href="#" class="term_item" target="_blank">Customer service</a>
+                              <a href="#" class="term_item" target="_blank">Parental Control</a>
                            </div>
                            <div class="copyright ">
                               <div class="footer_item">
