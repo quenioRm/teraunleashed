@@ -29,7 +29,9 @@
                 $("#emailerrormessagespan").show();
                 $("#email").attr('class', 'opacityNot js-notSyncValidate active');
                 $('#emailerrormessagespan').text(response.msg);
-                $("#confirmationCode").show();
+                if(response.code != 200){
+                  $("#confirmationCode").show();
+                }
              }).fail(function(xhr, status, error){
 
                 var errors = JSON.parse(xhr.responseText)
@@ -71,6 +73,7 @@
                $("#confirmationCodeerrormessagespan").show();
                $("#authKey").attr('class', 'opacityNot js-notSyncValidate active');
                $('#confirmationCodeerrormessagespan').text(response.msg);
+               $("#emailerrormessagespan").hide();
             }).fail(function(xhr, status, error){
 
                var errors = JSON.parse(xhr.responseText)
