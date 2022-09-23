@@ -5,12 +5,12 @@
    <input type="hidden" name="_policyAgreementList[0]._etc">
    <section class="box_agree  link_mode  ">
       <div class="sec_header join_policy_box">
-         <div class="custom_check"><input class="active" icon="" placeholder="" id="_policyAgreementList[0]._isChecked" labelname="[Required] I read the <a role='button' class='js-popDetails' data-idx='0' />Krystal Tera Terms of Service</a> and I agree to the terms." name="_policyAgreementList[0]._isChecked" required="required" type="checkbox" value="true"><input name="_policyAgreementList[0]._isChecked" type="hidden" value="false"><label for="_policyAgreementList[0]._isChecked"><span>[Required] I read the <a role="button" class="js-popDetails" data-idx="0">Krystal Tera Terms of Service</a> and I agree to the terms.</span></label><i class="pi pi_check"></i></div>
+         <div class="custom_check"><input class="active" icon="" placeholder="" id="_policyAgreementList[0]._isChecked" labelname="[Required] I read the <a role='button' class='js-popDetails' data-idx='0' />Tera Unleashed Terms of Service</a> and I agree to the terms." name="_policyAgreementList[0]._isChecked" required="required" type="checkbox" value="true"><input name="_policyAgreementList[0]._isChecked" type="hidden" value="false"><label for="_policyAgreementList[0]._isChecked"><span>[Required] I read the <a role="button" class="js-popDetails" data-idx="0">Tera Unleashed Terms of Service</a> and I agree to the terms.</span></label><i class="pi pi_check"></i></div>
       </div>
       <div class="box_policy_wrap hide ">
          <div class="box_policy">
             <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; "><span style="border: 1pt none windowtext; padding: 0cm;"><span style="font-size: 18px;"><b>Purpose</b></span></span></p>
-            <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; "><span lang="EN-US" style="border: 1pt none windowtext; padding: 0cm;">①&nbsp;</span>These terms and conditions set out the basic rules pertaining to the relationship between the Krystal Tera Corp. and its affiliated and subsidiary companies (hereinafter “Krystal Tera” or the “Company”) and the Member use of the services provided (the services pertaining to the Krystal Tera account, official website services, and the like hereinafter referred to as “Service”).</p>
+            <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; "><span lang="EN-US" style="border: 1pt none windowtext; padding: 0cm;">①&nbsp;</span>These terms and conditions set out the basic rules pertaining to the relationship between the Tera Unleashed Corp. and its affiliated and subsidiary companies (hereinafter “Tera Unleashed” or the “Company”) and the Member use of the services provided (the services pertaining to the Tera Unleashed account, official website services, and the like hereinafter referred to as “Service”).</p>
             <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; "><span lang="EN-US" style="border: 1pt none windowtext; padding: 0cm;">&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
             <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                <span lang="EN-US" style="border: 1pt none windowtext; padding: 0cm;"><br></span>
@@ -294,19 +294,19 @@
          <div class="box_policy">
             <p class="MsoNormal" align="left" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; "><br></p>
             <div align="center"></div>
-            <p><b>1. What type of information does Krystal Tera collect?&nbsp;</b></p>
-            <p><b>2. Why does Krystal Tera collect information?&nbsp;</b></p>
-            <p><b>3. Who does Krystal Tera share your information with?&nbsp;</b></p>
-            <p><b>4. How long does Krystal Tera retain the information, and how is it deleted?&nbsp;</b></p>
-            <p><b>5. How does Krystal Tera transfer information overseas?&nbsp;</b></p>
+            <p><b>1. What type of information does Tera Unleashed collect?&nbsp;</b></p>
+            <p><b>2. Why does Tera Unleashed collect information?&nbsp;</b></p>
+            <p><b>3. Who does Tera Unleashed share your information with?&nbsp;</b></p>
+            <p><b>4. How long does Tera Unleashed retain the information, and how is it deleted?&nbsp;</b></p>
+            <p><b>5. How does Tera Unleashed transfer information overseas?&nbsp;</b></p>
             <p><b>6. How is your information protected?&nbsp;</b></p>
             <p><b>7. What information is automatically collected (e.g. cookies)?&nbsp;</b></p>
             <p><b>8. What rights and choices do I and my legal guardian have pertaining to my personal information?&nbsp;</b></p>
-            <p><b>9. Is there an age restriction for the use of Krystal Tera’ services?&nbsp;</b></p>
-            <p><b>10. How do you contact Krystal Tera?&nbsp;</b></p>
+            <p><b>9. Is there an age restriction for the use of Tera Unleashed’ services?&nbsp;</b></p>
+            <p><b>10. How do you contact Tera Unleashed?&nbsp;</b></p>
             <p><b>11. Overseas Transfer of Personal Information (for Korean users)&nbsp;</b></p>
             <p>&nbsp;</p>
-            <p>Krystal Tera and its affiliated companies (Hereinafter referred to as “Krystal Tera” or the “Company”) provides PC, mobile, console, official website, and other game related services (“Services”). Krystal Tera stores, processes, and shares personal information in certain circumstances in order to provide you with these services. However, the security of your personal information is a priority to us and ample measures will be taken to protect it.&nbsp; &nbsp;</p>
+            <p>Tera Unleashed and its affiliated companies (Hereinafter referred to as “Tera Unleashed” or the “Company”) provides PC, mobile, console, official website, and other game related services (“Services”). Tera Unleashed stores, processes, and shares personal information in certain circumstances in order to provide you with these services. However, the security of your personal information is a priority to us and ample measures will be taken to protect it.&nbsp; &nbsp;</p>
             <p>&nbsp;</p>
             <p>This Privacy Policy provides information on how your personal data is used for which purpose, and which measures the company is taking to protect your personal data.&nbsp;&nbsp;</p>
             <p>&nbsp;</p>
@@ -314,14 +314,14 @@
             <p>&nbsp;</p>
             <p>This Privacy Policy applies to all services provided by the Company.&nbsp;</p>
             <p>&nbsp; &nbsp; &nbsp;</p>
-            <p><b>1. What type of information does Krystal Tera collect?&nbsp;</b></p>
+            <p><b>1. What type of information does Tera Unleashed collect?&nbsp;</b></p>
             <p>The company collects the following personal information when you sign up on our official website, use provided services (including mobile services), edit personal information, or submit inquiries via phone call, fax, or through customer support, as well as when partners provide and collect your information using a data collection tool.&nbsp;</p>
             <p>&nbsp;</p>
             <p><b>1) Information provided by you&nbsp;</b></p>
-            <p>① Information provided during Krystal Tera account creation.&nbsp;</p>
+            <p>① Information provided during Tera Unleashed account creation.&nbsp;</p>
             <p>- Email address (account name), password, name, region, and date of birth&nbsp;</p>
             <p>* Signing up with an SNS account will collect additional user identification information.&nbsp;</p>
-            <p>② Information provided during Krystal Tera account creation using a Steam account.&nbsp;</p>
+            <p>② Information provided during Tera Unleashed account creation using a Steam account.&nbsp;</p>
             <p>- Member identification number, Email address, name, region, and date of birth&nbsp;</p>
             <p>&nbsp;</p>
             <p>* The Company intentionally does not collect or request personal information from users regarded as minors in their respective countries (e.g. 14 or under in Korea, 13 or under in the US/Canada, 13-16 or under in Europe, and 18 or under in Brazil)&nbsp;</p>
@@ -609,7 +609,7 @@
                <div><br></div>
                <div><br></div>
                <div>
-                  <div><b>2. Why does Krystal Tera collect information?&nbsp;</b></div>
+                  <div><b>2. Why does Tera Unleashed collect information?&nbsp;</b></div>
                   <div>The company collects information for the following reasons.&nbsp;</div>
                   <div>&nbsp;</div>
                   <div><b>1) We process the necessary data to provide services.&nbsp;</b></div>
@@ -653,7 +653,7 @@
                   <div>The Company may have legitimate interest when collecting and processing data necessary to meet contracts, provide and retain appropriate services, and set up targeted advertisements. However, any personal data users have not agreed to provide will not be used.&nbsp;</div>
                   <div>&nbsp; &nbsp;</div>
                   <div>&nbsp;</div>
-                  <div><b>3. Who does Krystal Tera share your information with?&nbsp;</b></div>
+                  <div><b>3. Who does Tera Unleashed share your information with?&nbsp;</b></div>
                   <div>The company does not share identifiable personal information with a third party without the consent of the relevant user. When requesting consent from a user, the company will provide information on the subject receiving the data, the purpose, and the type of data shared. However, the company shares information with third parties if it is required by law, or is deemed necessary to enforce our rights, property, or operations or to protect users or third parties or if we engage partners and service providers in order to provide our services to you by the due process of law.&nbsp; &nbsp;</div>
                   <div>&nbsp;</div>
                   <div><b>1) Other players and users&nbsp;</b></div>
@@ -710,14 +710,14 @@
                                     </td>
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;   mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
-                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Krystal Tera Korea Service </span><span lang="EN-US"><br>  </span><span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">&nbsp;Krystal Tera NA/EU Service </span><span lang="EN-US"><br>  </span>
+                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Tera Unleashed Korea Service </span><span lang="EN-US"><br>  </span><span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">&nbsp;Tera Unleashed NA/EU Service </span><span lang="EN-US"><br>  </span>
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">
-                                             &nbsp;Krystal Tera SA Service 
+                                             &nbsp;Tera Unleashed SA Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
-                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;;color:black;mso-themecolor:text1">Krystal Tera SEA</span>
+                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;;color:black;mso-themecolor:text1">Tera Unleashed SEA</span>
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:  &quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;  mso-bidi-font-family:&quot;맑은 고딕&quot;">
                                              <o:p></o:p>
                                           </span>
@@ -744,7 +744,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera NA/EU Service 
+                                             Tera Unleashed NA/EU Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -770,7 +770,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera NA/EU Service 
+                                             Tera Unleashed NA/EU Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -796,7 +796,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera SA Service 
+                                             Tera Unleashed SA Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -822,7 +822,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera Korea Service 
+                                             Tera Unleashed Korea Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -848,7 +848,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera Korea Service 
+                                             Tera Unleashed Korea Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -874,7 +874,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera Korea Service 
+                                             Tera Unleashed Korea Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -899,9 +899,9 @@
                                     </td>
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
-                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Krystal Tera NA/EU Service </span><span lang="EN-US"><br>  </span>
+                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Tera Unleashed NA/EU Service </span><span lang="EN-US"><br>  </span>
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">
-                                             &nbsp;Krystal Tera SA Service 
+                                             &nbsp;Tera Unleashed SA Service 
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -926,9 +926,9 @@
                                     </td>
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
-                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Krystal Tera Korea Service</span><span lang="EN-US"><br>  </span><span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">&nbsp;Krystal Tera NA/EU Service</span><span lang="EN-US"><br>  </span>
+                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">Tera Unleashed Korea Service</span><span lang="EN-US"><br>  </span><span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">&nbsp;Tera Unleashed NA/EU Service</span><span lang="EN-US"><br>  </span>
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;  mso-ascii-font-family:&quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:  &quot;맑은 고딕&quot;;mso-bidi-font-family:&quot;맑은 고딕&quot;">
-                                             &nbsp;Krystal Tera SA Service
+                                             &nbsp;Tera Unleashed SA Service
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -946,7 +946,7 @@
                                     <td width="169" style="width:126.95pt;border-top:none;border-left:none;    mso-border-top-alt:solid #7E8C8D 1.0pt;padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;">
-                                             Krystal Tera Korea Service
+                                             Tera Unleashed Korea Service
                                              <o:p></o:p>
                                           </span>
                                        </p>
@@ -971,7 +971,7 @@
                                     </td>
                                     <td width="169" rowspan="4" style="width:126.95pt;border-top:none;border-left:  none;    mso-border-top-alt:solid #7E8C8D 1.0pt;mso-border-left-alt:solid #7E8C8D 1.0pt;  mso-border-alt:solid #7E8C8D 1.0pt;mso-border-bottom-alt:solid #7E8C8D .25pt;  padding:0cm 5.4pt 0cm 5.4pt">
                                        <p class="MsoNormal" align="center" style="margin-bottom: 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; line-height: normal; vertical-align: baseline; ">
-                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;;color:black;mso-themecolor:text1">Krystal Tera SEA</span>
+                                          <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:&quot;맑은 고딕&quot;;  mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;mso-bidi-font-family:  &quot;맑은 고딕&quot;;color:black;mso-themecolor:text1">Tera Unleashed SEA</span>
                                           <span lang="EN-US" style="mso-bidi-font-size:10.0pt;line-height:107%;mso-ascii-font-family:  &quot;맑은 고딕&quot;;mso-fareast-font-family:&quot;맑은 고딕&quot;;mso-hansi-font-family:&quot;맑은 고딕&quot;;  mso-bidi-font-family:&quot;맑은 고딕&quot;">
                                              <o:p></o:p>
                                           </span>
@@ -1041,7 +1041,7 @@
                      <div>- If deemed necessary for settlement of charges based on service provision, the user’s data may be provided to the payment service company.&nbsp;</div>
                      <div>&nbsp;&nbsp;</div>
                      <div><br></div>
-                     <div><b>4. How long does Krystal Tera retain the information and how is it deleted?&nbsp;</b></div>
+                     <div><b>4. How long does Tera Unleashed retain the information and how is it deleted?&nbsp;</b></div>
                      <div>The Company maintains and uses the collected information for the duration of users’ membership with their given consent. In principle, once the purpose of gathering and using provided personal information is fulfilled (ex. on request of membership withdrawal, closing of a participatory event), the relevant information will be eliminated immediately. (However, to prevent undesired membership withdrawal due to any identity theft and account-takeover identity theft, the user’s personal information will be stored for 15 days after requesting account deletion.)&nbsp; &nbsp;</div>
                      <div>&nbsp;</div>
                      <div>However, the following information will be retained for the specified period of time under respective reasons in accordance with the relevant act on data in the Republic of Korea. They will not be used for any other purposes.&nbsp;</div>
@@ -1068,13 +1068,13 @@
                      <div>In principle, the Company instantly eliminates users’ personal information once the purpose of collecting and utilizing relevant information is fulfilled or the duration for preserving and utilizing relevant data is expired. The procedure and operation of deleting personal information are as follows:&nbsp;</div>
                      <div>&nbsp;</div>
                      <div><b>① Deletion Procedure&nbsp;</b></div>
-                     <div>Users’ personal information will be instantly erased once the purpose of collecting and utilizing relevant information is fulfilled (15 days after the grace period for membership withdrawal). However, it is held for a certain period, for the purpose of information protection as stipulated by the law (refer to “4. How long does Krystal Tera retain the information?”).&nbsp;</div>
+                     <div>Users’ personal information will be instantly erased once the purpose of collecting and utilizing relevant information is fulfilled (15 days after the grace period for membership withdrawal). However, it is held for a certain period, for the purpose of information protection as stipulated by the law (refer to “4. How long does Tera Unleashed retain the information?”).&nbsp;</div>
                      <div>&nbsp;</div>
                      <div><b>② Deletion Method&nbsp;</b></div>
                      <div>Personal information printed out on paper (printed material, papers, etc.) is shredded or incinerated, and information saved in the form of an electronic format is permanently deleted in such a way that it cannot be recovered.&nbsp;</div>
                      <div>&nbsp;&nbsp;</div>
                      <div><br></div>
-                     <div><b>5. How does Krystal Tera transfer information overseas?&nbsp;</b></div>
+                     <div><b>5. How does Tera Unleashed transfer information overseas?&nbsp;</b></div>
                      <div>Your information may be sent overseas as the Company provides services worldwide. Each country may have different laws pertaining to information protection. In particular, if you are residing in a European country, laws on the protected range of information in other countries outside of the EEA (European Economic Area) may be different to that of your own country of residence. The company will comply with the relevant laws to protect your information. Please refer to ‘6. How is the information protected?’ for details on how your information will be protected.&nbsp; &nbsp;</div>
                      <div>&nbsp;</div>
                      <div>The Republic of Korea and the EU have adopted the Personal Information Protection Adequacy Decision for the transfer of personal information to the Republic of Korea in accordance with the GDPR.&nbsp;</div>
@@ -1083,7 +1083,7 @@
                      <div>&nbsp;</div>
                      <div>You can always reach Support or the personnel or department in charge of privacy protection (privacy@pearlabyss.com) and request discontinuance of an overseas transfer of your personal data. However, if some information is not provided to an overseas partner per your request, you may experience some limitations when using our official website or game services.&nbsp;</div>
                      <div>&nbsp;</div>
-                     <div>When transferring your information to partners and service providers listed under ‘3. Who does Krystal Tera share your information with?’, the Company transfers information in compliance with the European Commission’s Standard Contractual Clauses. Your information will be transferred with adequate protection. For more information, please feel free to contact Support on our official website or the personnel or department in charge of privacy protection (privacy@pearlabyss.com).&nbsp;</div>
+                     <div>When transferring your information to partners and service providers listed under ‘3. Who does Tera Unleashed share your information with?’, the Company transfers information in compliance with the European Commission’s Standard Contractual Clauses. Your information will be transferred with adequate protection. For more information, please feel free to contact Support on our official website or the personnel or department in charge of privacy protection (privacy@pearlabyss.com).&nbsp;</div>
                      <div>&nbsp;&nbsp;</div>
                      <div><br></div>
                      <div><b>6. How is the information protected?&nbsp;</b></div>
@@ -1144,7 +1144,7 @@
                      <div>&nbsp;</div>
                      <div>Once the user has requested the correction of an error in his or her personal information, the relevant information will not be used or provided until the rectification is made. Likewise, if any wrong personal information was already provided to a third party, corrected data will be delivered to the third party instantly for further correction.&nbsp;</div>
                      <div>&nbsp;</div>
-                     <div>The company processes personal information withdrawn or deleted under the request of the user following “4. How long does Krystal Tera retain the information?” and limits the information from being used or searched for other purposes.&nbsp;</div>
+                     <div>The company processes personal information withdrawn or deleted under the request of the user following “4. How long does Tera Unleashed retain the information?” and limits the information from being used or searched for other purposes.&nbsp;</div>
                      <div>&nbsp;</div>
                      <div><b>1) Privacy rights of users residing in the European Economic Area (EEA)&nbsp;</b></div>
                      <div>Users accessing the Services from the European Economic Area have the following additional rights relating to personal information, but their effectiveness and procedures may be determined in accordance with the laws and regulations of individual countries.&nbsp;</div>
@@ -1179,7 +1179,7 @@
                      <div>- The age limit for the use of game services is set according to the game rating authorized in each service area.&nbsp;</div>
                      <div>&nbsp; &nbsp;</div>
                      <div><br></div>
-                     <div><b>10. How do you contact Krystal Tera?&nbsp;</b></div>
+                     <div><b>10. How do you contact Tera Unleashed?&nbsp;</b></div>
                      <div>If you have any questions about personal information protection or have issues related to personal information, please send an inquiry through Customer Support on our official website. The Company will answer your inquiries as soon as possible. Also, you may report any of your concerns regarding personal data while using our services to the personnel or department in charge of personal data protection. The Company will do its best to thoroughly address and answer all complaints as quickly as possible. Please contact the following institutions if you need to report or receive consultation about personal information.&nbsp;</div>
                      <div>
                         <div class="table-resizr">
@@ -1245,12 +1245,12 @@
                <div><b>2) Company and agency in charge of personal information protection in Europe (located in the Republic of Korea)&nbsp;</b></div>
                <div>If you are residing in Europe, you may ask questions regarding your personal information through the following contact information.&nbsp;&nbsp;</div>
                <div>&nbsp;</div>
-               <div>Company in charge of personal information protection: Krystal Tera Corp.&nbsp;</div>
+               <div>Company in charge of personal information protection: Tera Unleashed Corp.&nbsp;</div>
                <div>Address: 48 Gwacheon-daero 2-gil, Gwacheon-si, Gyeonggi-do, 13824, Rep. of Korea&nbsp;</div>
                <div>Email: dpo@pearlabyss.com&nbsp;</div>
                <div>&nbsp;</div>
                <div>Company and agency in charge of personal information protection in Europe&nbsp;</div>
-               <div>VeraSafe has been appointed as Krystal Tera H.K. LIMITED's representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union.&nbsp;</div>
+               <div>VeraSafe has been appointed as Tera Unleashed H.K. LIMITED's representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union.&nbsp;</div>
                <div>&nbsp;</div>
                <div>VeraSafe can be contacted in addition to dpo@pearlabyss.com, only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form:&nbsp; https://www.verasafe.com/privacy-services/contact-article-27-representative&nbsp;</div>
                <div>&nbsp;</div>
@@ -1263,7 +1263,7 @@
                <div>&nbsp;&nbsp;</div>
                <div><br></div>
                <div><b>11. Overseas Transfer of Personal Information (for Korean users)&nbsp;</b></div>
-               <div>Krystal Tera stores the following personal information overseas to provide stable and safe service.&nbsp;</div>
+               <div>Tera Unleashed stores the following personal information overseas to provide stable and safe service.&nbsp;</div>
                <div>&nbsp;</div>
                <div><b>1) Personal Information that is Transferred (Stored) Abroad:&nbsp;</b></div>
                <div>①When using the official website services or Parental Controls:&nbsp;</div>

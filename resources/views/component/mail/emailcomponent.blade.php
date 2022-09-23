@@ -34,7 +34,7 @@
             </tr>
             <tr>
                 <td width="5.8%"></td>
-                <td style="font-family:나눔고딕,NanumGothic,맑은고딕,Malgun Gothic,돋움,Dotum,Helvetica,Apple SD Gothic Neo,sans-serif;font-size:15px;color:#21243e;line-height:1.7">Caro,<br>Favor digitar o código de confirmação abaixo no site oficial para desfrutar com segurança dos serviços da Krystal Tera.</td>
+                <td style="font-family:나눔고딕,NanumGothic,맑은고딕,Malgun Gothic,돋움,Dotum,Helvetica,Apple SD Gothic Neo,sans-serif;font-size:15px;color:#21243e;line-height:1.7">Caro,<br>Favor digitar o código de confirmação abaixo no site oficial para desfrutar com segurança dos serviços da Tera Unleashed.</td>
                 <td width="5.8%"></td>
             </tr>
             <tr>
@@ -116,7 +116,7 @@
                         <tr>
                             <td width="5.8%"></td>
                             <td align="center" style="font-family:나눔고딕,NanumGothic,맑은고딕,Malgun Gothic,돋움,Dotum,Helvetica,Apple SD Gothic Neo,sans-serif;font-size:13px;color:#656565;line-height:1.5">
-                                © Krystal Tera Corp. All Rights Reserved.<br>
+                                © Tera Unleashed Corp. All Rights Reserved.<br>
                                 <br>
                                 <span style="font-size:12px;color:#aaa;line-height:1.5">Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.</span>
                                 <br>

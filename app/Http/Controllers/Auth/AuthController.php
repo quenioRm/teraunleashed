@@ -46,7 +46,7 @@ class AuthController extends Controller
 
         $check = accountVerificationCode::CheckAccountIsActivated($request['email']);
         if($check == 0){
-            $validator->errors()->add('_email', 'Please check your account as it is not activated!');
+            $validator->errors()->add('_email', 'Por favor, verifique sua conta, pois ela não está ativada!');
             return redirect(route('register'))->withInput()->withErrors($validator->errors());
         }
 
@@ -71,17 +71,17 @@ class AuthController extends Controller
 
         $check = accountVerificationCode::CheckAccountIsActivated($request['email']);
         if($check == 0){
-            return response()->json(['code' => 200,'msg' => 'Account is already activated, complete your registration!'], 200);
+            return response()->json(['code' => 200,'msg' => 'A conta já está ativada, complete seu cadastro!'], 200);
         }
 
         $saveCode =  accountVerificationCode::MakeNewActivationCode($request['email']);
         if($saveCode['code'] == 1){
-            $validator->errors()->add('email', 'Hold ' . $saveCode['minutes'] . ' minutes to request a new code!');
+            $validator->errors()->add('email', 'Aguarde ' . $saveCode['minutos'] . ' minutos para solicitar um novo código!');
             return response()->json(['code' => 1,'msg' => $validator->errors()->first()], 400);
         }
 
         if($saveCode['code'] == 0){
-            return response()->json(['code' => 0,'msg' => 'Email sent to requested destination!'], 200);
+            return response()->json(['code' => 0,'msg' => 'Email enviado para o destino solicitado!'], 200);
         }
     }
 
@@ -101,17 +101,17 @@ class AuthController extends Controller
         $saveCode =  accountVerificationCode::FindAccountByCode($request['email'], $request['authKey']);
 
         if($saveCode['code'] == 1){
-            $validator->errors()->add('email', 'Code expired, a new code has been sent to your email!');
+            $validator->errors()->add('email', 'Código expirado, um novo código foi enviado para o seu e-mail!');
             return response()->json(['msg' => $validator->errors()->first()], 400);
         }
 
         if($saveCode['code'] == 2){
-            $validator->errors()->add('email', 'Account not found');
+            $validator->errors()->add('email', 'Conta não encontrada');
             return response()->json(['msg' => $validator->errors()->first()], 400);
         }
 
         if($saveCode['code'] == 0){
-            return response()->json(['msg' => 'Your account has been activated and pre-registered in our database!'], 200);
+            return response()->json(['msg' => 'Sua conta foi ativada e pré-cadastrada em nosso banco de dados!'], 200);
         }
     }
 }

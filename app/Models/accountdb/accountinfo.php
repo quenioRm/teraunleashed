@@ -53,7 +53,7 @@ class accountinfo extends Model
 
             $account = new accountinfo();
             $account->userName = $input['_name'];
-            $account->passWord = $input['_password'];
+            $account->passWord = hash("sha512",$input['_password']);
             $account->authKey = vsprintf('%s%s-%s-4000-8%.3s-%s%s%s0',str_split(dechex( microtime(true) * 1000 ) . bin2hex( random_bytes(8) ),4));
             $account->email = $input['_email'];
             $account->registerTime = now();

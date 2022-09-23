@@ -18,13 +18,13 @@
                <meta name="format-detection" content="telephone=no, address=no, email=no" />
                <meta name="apple-mobile-web-app-capable" content="yes" />
                <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-               <title>Criar Krystal Tera ID | Krystal Tera</title>
-               <meta name="keywords" content="Krystal Tera, Krystal Tera, Cadastro Krystal Tera, Criar Krystal Tera ID, Login de Krystal Tera ID, conta da Krystal Tera">
-               <meta name="description" content="Bem-vindo &#224; Krystal Tera.">
+               <title>Criar Tera Unleashed ID | Tera Unleashed</title>
+               <meta name="keywords" content="Tera Unleashed, Tera Unleashed, Cadastro Tera Unleashed, Criar Tera Unleashed ID, Login de Tera Unleashed ID, conta da Tera Unleashed">
+               <meta name="description" content="Bem-vindo &#224; Tera Unleashed.">
                <meta property="og:type" content="website" />
-               <meta property="og:title" content="Criar Krystal Tera ID | Krystal Tera" />
-               <meta property="og:description" content="Bem-vindo &#224; Krystal Tera." />
-               <meta property="og:url" content="https://account.Krystal Tera.com" />
+               <meta property="og:title" content="Criar Tera Unleashed ID | Tera Unleashed" />
+               <meta property="og:description" content="Bem-vindo &#224; Tera Unleashed." />
+               <meta property="og:url" content="https://account.Tera Unleashed.com" />
                <meta property="og:image" content="https://s1.pearlcdn.com/account/contents/img/common/og_image.jpg?v=637992616027882803" />
                <meta property="og:image:width" content="1200" />
                <meta property="og:image:height" content="628" />
@@ -35,12 +35,12 @@
                <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon64.ico" type="image/x-icon" sizes="64x64">
                <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon256.ico" type="image/x-icon" sizes="256x256">
                <meta http-equiv="content-language" content="pt" />
-               <link rel="alternate" hreflang="ko" href="https://account.Krystal Tera.com/ko-KR" />
-               <link rel="alternate" hreflang="en" href="https://account.Krystal Tera.com/en-US" />
-               <link rel="alternate" hreflang="de" href="https://account.Krystal Tera.com/de-DE" />
-               <link rel="alternate" hreflang="fr" href="https://account.Krystal Tera.com/fr-FR" />
-               <link rel="alternate" hreflang="es" href="https://account.Krystal Tera.com/es-ES" />
-               <link rel="alternate" hreflang="cn" href="https://account.Krystal Tera.com/zh-CN" />
+               <link rel="alternate" hreflang="ko" href="https://account.Tera Unleashed.com/ko-KR" />
+               <link rel="alternate" hreflang="en" href="https://account.Tera Unleashed.com/en-US" />
+               <link rel="alternate" hreflang="de" href="https://account.Tera Unleashed.com/de-DE" />
+               <link rel="alternate" hreflang="fr" href="https://account.Tera Unleashed.com/fr-FR" />
+               <link rel="alternate" hreflang="es" href="https://account.Tera Unleashed.com/es-ES" />
+               <link rel="alternate" hreflang="cn" href="https://account.Tera Unleashed.com/zh-CN" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/global_static/font/web/font.css?v=637992616027882803" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/account/contents/css/common/reset.css?v=637992616027882803" />
                <link type="text/css" rel="stylesheet" href="https://s1.pearlcdn.com/account/contents/css/common/pi.css?v=637992616027882803" />
@@ -66,9 +66,9 @@
                <!-- End Google Tag Manager (noscript) -->
                <link type="text/css" rel="stylesheet" href="{{asset('assets/register/css/style.css')}}" />
                <div class="header">
-                  <a href="#default" class="logo">Krystal Tera</a>
+                  <a href="#default" class="logo">Tera Unleashed</a>
                   <div class="header-right">
-                    <a class="active" target="_blank" href="https://discord.gg/dcZfZyQus9">Discord</a>
+                    <a class="active" target="_blank" href="https://discord.gg/cJX6wyKq97">Discord</a>
                     <a href="#">Download</a>
                     <a href="#" target="_blank">Facebook</a>
                   </div>
@@ -86,7 +86,7 @@
                            @csrf
                            <div id="step02" class="container container_join">
                               <article class="content">
-                                 <h2>Criar Krystal Tera ID</h2>
+                                 <h2>Criar Tera Unleashed ID</h2>
                                  <div class="box_join">
 
                                     <div class="input_with_btn js-email">
@@ -477,8 +477,8 @@
                            </div>
                            <div class="copyright ">
                               <div class="footer_item">
-                                 <a href="#" target="_blank" class="btn_Krystal Tera" aria-label="Krystal Tera"></a>
-                                 <p>&copy; Krystal Tera Corp. All Rights Reserved.</p>
+                                 <a href="#" target="_blank" class="btn_Tera Unleashed" aria-label="Tera Unleashed"></a>
+                                 <p>&copy; Tera Unleashed Corp. All Rights Reserved.</p>
                               </div>
                            </div>
                         </div>
